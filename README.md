@@ -1,2 +1,2 @@
 # Learning about Version Control
-Jason Lee
+By: Jason Lee
